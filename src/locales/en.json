@@ -1,0 +1,378 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "work": "Work",
+    "team": "Team",
+    "jobs": "Jobs",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "hero": {
+    "title": "Welcome to 9th Avenue",
+    "subtitle": "We transform ideas into exceptional digital experiences that captivate, engage, and deliver results",
+    "buttons": {
+      "services": "Services",
+      "contact": "Contact Us"
+    },
+    "cards": {
+      "card1": {
+        "title": "Web Design",
+        "description": "Elegant and functional designs"
+      },
+      "card2": {
+        "title": "Development",
+        "description": "Robust and scalable solutions"
+      },
+      "card3": {
+        "title": "Performance First",
+        "description": "Optimizing every aspect of your application for speed, reliability, and scalability"
+      },
+      "card4": {
+        "title": "Expert Support",
+        "description": "Providing ongoing maintenance and support to ensure your project's long-term success"
+      }
+    }
+  },
+  "services": {
+    "title": "Our Expertise",
+    "subtitle": "Transforming visions into digital reality",
+    "list": {
+      "webdev": {
+        "title": "Web Development",
+        "description": "Creating responsive, lightning-fast web applications using cutting-edge technologies like Next.js, React, and TailwindCSS"
+      },
+      "design": {
+        "title": "UI/UX Design",
+        "description": "Crafting intuitive interfaces and seamless user experiences that blend aesthetics with functionality"
+      },
+      "mobile": {
+        "title": "Mobile Development",
+        "description": "Building native and cross-platform mobile apps that deliver exceptional performance and user engagement"
+      },
+      "consulting": {
+        "title": "Tech Strategy",
+        "description": "Guiding businesses through digital transformation with expert consulting and innovative solutions"
+      },
+      "backenddev": {
+        "title": "Backend Architecture",
+        "description": "Developing robust, scalable backend systems that power high-performance applications"
+      },
+      "security": {
+        "title": "Digital Security",
+        "description": "Implementing advanced security measures to protect your digital assets and user data"
+      }
+    }
+  },
+  "work": {
+    "title": "Selected Work",
+    "description": "Showcasing our finest projects and collaborations in design and development",
+    "comingSoon": {
+      "title": "More Projects Coming",
+      "description": "We are continuously working on new innovative projects. Stay tuned for upcoming updates as we keep transforming ideas into exceptional digital experiences."
+    },
+    "subtitle": "Success stories that inspire",
+    "viewProject": "View Project",
+    "projects": {
+      "menufast": {
+        "title": "menufa.st",
+        "description": "Innovative platform for generating digital menus and QR codes, specifically designed for restaurants. A modern solution that simplifies menu management and enhances customer experience."
+      },
+      "usacaribbean": {
+        "title": "USA Caribbean Tours",
+        "description": "CMS-based system for bus ticket purchasing with custom forms for custom trips. Complete integration of SMTP and Stripe for payment processing. Project developed from scratch for Ponemus.com."
+      },
+      "chamberfast": {
+        "title": "chamberfa.st",
+        "description": "Our largest project yet, still under construction. All-in-one CMS-based system for chambers of commerce. Everything others offer separately, this system will have in one place.",
+        "joinWaitlist": "Join Waitlist"
+      },
+      "checkprinter": {
+        "title": "Check Printer & Balance Manager",
+        "description": "Specialized application for check printing adjusted to standard paper measurements. Includes printed check control and balance management with automatic tracking of income and expenses. A simple yet effective solution for financial management."
+      }
+    }
+  },
+  "team": {
+    "title": "The Team",
+    "description": "Meet the creative minds behind our exceptional work",
+    "disclaimer": {
+      "title": "Legal Disclaimer",
+      "description": "Despite any rumors or visual similarities, I must clarify that I am not, in fact, Spider-Man. I just happen to be a web developer who's really good at catching bugs. Any wall-crawling abilities are purely coincidental and mostly related to my extensive experience with web development."
+    },
+    "roles": {
+      "founder": "Founder",
+      "developer": "Developer",
+      "accountManager": "Account Manager"
+    },
+    "memberDescription": {
+      "founder": "Leading design innovation with over a decade of experience in digital branding",
+      "developer": "Crafting seamless digital experiences through elegant code solutions",
+      "accountManager": "Bringing creative visions to life with a focus on visual storytelling"
+    }
+  },
+  "contact": {
+    "title": "Let's Create Together",
+    "subtitle": "Start your digital journey",
+    "description": "Ready to transform your digital presence? Let's discuss how we can help your business thrive",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "message": "Tell us about your project",
+      "send": "Send Message",
+      "success": "Message sent successfully! We'll get back to you soon.",
+      "error": "Failed to send message. Please try again."
+    },
+    "office": {
+      "title": "Visit Us",
+      "address": "Port Arthur, TX",
+      "email": "info@9thavenue.dev"
+    }
+  },
+  "popup": {
+    "title": "Special Offer",
+    "subtitle": "2 Months Free + Zero Setup Fee",
+    "description": "Start your project with us and get 2 months of service completely free, plus we'll waive the setup fee. Limited time offer!",
+    "button": "Get Started Now",
+    "countdown": {
+      "days": "Days",
+      "hours": "Hours",
+      "minutes": "Min",
+      "seconds": "Sec"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "about": {
+    "title": "Our Story",
+    "subtitle": "Crafting digital excellence since 2020",
+    "description": "We're a team of passionate developers and designers dedicated to creating exceptional digital experiences",
+    "process": {
+      "title": "Our Process",
+      "subtitle": "A systematic approach to bringing your vision to life",
+      "steps": {
+        "discovery": {
+          "title": "Discovery",
+          "description": "Understanding your vision, goals, and requirements through in-depth consultation"
+        },
+        "planning": {
+          "title": "Planning",
+          "description": "Developing a comprehensive plan to achieve your objectives effectively"
+        },
+        "design": {
+          "title": "Design",
+          "description": "Creating beautiful and functional solutions that align with your brand"
+        },
+        "development": {
+          "title": "Development",
+          "description": "Building robust and scalable solutions using cutting-edge technologies"
+        },
+        "testing": {
+          "title": "Testing",
+          "description": "Ensuring quality and performance through rigorous testing procedures"
+        },
+        "launch": {
+          "title": "Launch",
+          "description": "Deploying your project and providing ongoing support and maintenance"
+        }
+      }
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide our work and shape our approach",
+      "list": {
+        "innovation": {
+          "title": "Innovation",
+          "description": "Pushing boundaries and embracing new technologies to create cutting-edge solutions"
+        },
+        "quality": {
+          "title": "Quality",
+          "description": "Delivering excellence in every detail of our work, from concept to execution"
+        },
+        "collaboration": {
+          "title": "Collaboration",
+          "description": "Working closely with our clients to understand and achieve their vision"
+        },
+        "integrity": {
+          "title": "Integrity",
+          "description": "Building trust through transparency, honesty, and ethical practices"
+        },
+        "growth": {
+          "title": "Growth",
+          "description": "Continuously learning and evolving to stay ahead of industry trends"
+        },
+        "impact": {
+          "title": "Impact",
+          "description": "Creating meaningful experiences that resonate with users and drive results"
+        }
+      }
+    }
+  },
+  "jobs": {
+    "title": "Join Our Creative Community",
+    "subtitle": "Be part of something special",
+    "description": "Become a seller and share your creative expertise with clients worldwide. Join our platform to showcase your skills and grow your business.",
+    "apply": "Apply Now",
+    "imageAlt": "Join Our Team",
+    "process": {
+      "title": "Process",
+      "subtitle": "How to become a seller",
+      "steps": {
+        "apply": {
+          "title": "Apply",
+          "description": "Submit your application, no portfolio, experience or CV required"
+        },
+        "review": {
+          "title": "Review",
+          "description": "No one will review your application, because application submitted application accepted"
+        },
+        "interview": {
+          "title": "Interview",
+          "description": "No interview required, that's how flexible we are"
+        },
+        "onboarding": {
+          "title": "Onboarding",
+          "description": "Once applied, you can start selling to as many small or large businesses as you want"
+        },
+        "training": {
+          "title": "Training",
+          "description": "There is no training, draw on your own experience, you can do it!"
+        },
+        "launch": {
+          "title": "Launch",
+          "description": "Start immediately selling and growing with us"
+        }
+      }
+    },
+    "requirements": {
+      "title": "Requirements",
+      "subtitle": "What we look for in our sellers",
+      "list": {
+        "experience": {
+          "title": "Experience",
+          "description": "No experience required, just a willingness to work"
+        },
+        "skills": {
+          "title": "Technical Skills",
+          "description": "No skills required, just a willingness to work"
+        },
+        "communication": {
+          "title": "Communication",
+          "description": "Excellent written and verbal communication skills in any language"
+        },
+        "portfolio": {
+          "title": "Portfolio",
+          "description": "No portfolio required, just a willingness to work"
+        }
+      }
+    },
+    "benefits": {
+      "title": "Benefits",
+      "subtitle": "What you get as a seller",
+      "list": {
+        "flexibility": {
+          "title": "Work Flexibility",
+          "description": "Work on your own schedule from anywhere in the world"
+        },
+        "earnings": {
+          "title": "High Earnings",
+          "description": "Competitive commission rates and performance bonuses"
+        },
+        "growth": {
+          "title": "Professional Growth",
+          "description": "Guaranteed growth based on your performance"
+        },
+        "support": {
+          "title": "Dedicated Support",
+          "description": "Expert team to help you succeed and grow your business"
+        },
+        "tools": {
+          "title": "Experience guaranteed",
+          "description": "You will learn over time, at your own pace"
+        },
+        "community": {
+          "title": "Creative Community",
+          "description": "Join you and everyone you know, the better, more profits for everyone"
+        }
+      }
+    },
+    "form": {
+      "title": "Apply to Join Our Team",
+      "description": "Share your details with us and start your journey as a seller today",
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number (Optional)",
+      "message": "Tell us about yourself",
+      "send": "Submit Application",
+      "success": "Application sent successfully! Welcome to the team!",
+      "error": "Failed to send application. Please try again."
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for may have been removed, had its name changed, or is temporarily unavailable.",
+    "returnHome": "Return Home"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Your privacy matters to us. Learn how we collect, use, and protect your information.",
+    "sections": {
+      "collection": {
+        "title": "Information Collection",
+        "description": "We collect information that you provide directly to us, including personal information such as your name, email address, and any other information you choose to provide."
+      },
+      "usage": {
+        "title": "Information Usage",
+        "description": "We use the information we collect to provide, maintain, and improve our services, communicate with you, and protect our services and users."
+      },
+      "cookies": {
+        "title": "Cookies & Technologies",
+        "description": "We use cookies and similar tracking technologies to track activity on our services and hold certain information to improve your experience."
+      },
+      "sharing": {
+        "title": "Information Sharing",
+        "description": "We do not share your personal information with third parties except as described in this privacy policy or with your consent."
+      },
+      "security": {
+        "title": "Data Security",
+        "description": "We take reasonable measures to help protect your personal information from loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction."
+      },
+      "rights": {
+        "title": "Your Rights",
+        "description": "You have the right to access, update, or delete your personal information. Contact us to exercise these rights or ask questions about our privacy practices."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "subtitle": "Please read these terms carefully before using our services.",
+    "sections": {
+      "acceptance": {
+        "title": "Acceptance of Terms",
+        "description": "By accessing or using our services, you agree to be bound by these terms. If you disagree with any part of the terms, you may not access the service."
+      },
+      "services": {
+        "title": "Description of Services",
+        "description": "We provide digital services including web development, design, and consulting. Services are provided 'as is' and we reserve the right to modify or discontinue any service without notice."
+      },
+      "intellectual": {
+        "title": "Intellectual Property",
+        "description": "All content, features, and functionality of our services are owned by us and are protected by international copyright, trademark, and other intellectual property laws."
+      },
+      "user": {
+        "title": "User Responsibilities",
+        "description": "You are responsible for maintaining the confidentiality of your account and for all activities that occur under your account. You must not violate any applicable laws or regulations."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "description": "We shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use or inability to use our services."
+      },
+      "termination": {
+        "title": "Account Termination",
+        "description": "We reserve the right to terminate or suspend your account and access to our services immediately, without prior notice or liability, for any reason whatsoever."
+      }
+    }
+  }
+}

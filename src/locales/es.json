@@ -1,0 +1,378 @@
+{
+  "nav": {
+    "about": "Nosotros",
+    "services": "Servicios",
+    "work": "Proyectos",
+    "team": "Equipo",
+    "jobs": "Empleo",
+    "contact": "Contacto",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "hero": {
+    "title": "Bienvenido a 9th Avenue",
+    "subtitle": "Transformamos ideas en experiencias digitales excepcionales que cautivan, conectan y generan resultados",
+    "buttons": {
+      "services": "Servicios",
+      "contact": "Contáctanos"
+    },
+    "cards": {
+      "card1": {
+        "title": "Diseño Web",
+        "description": "Diseños elegantes y funcionales"
+      },
+      "card2": {
+        "title": "Desarrollo",
+        "description": "Soluciones robustas y escalables"
+      },
+      "card3": {
+        "title": "Rendimiento Primero",
+        "description": "Optimizamos cada aspecto de tu aplicación para máxima velocidad, confiabilidad y escalabilidad"
+      },
+      "card4": {
+        "title": "Soporte Experto",
+        "description": "Brindamos mantenimiento y soporte continuo para asegurar el éxito a largo plazo de tu proyecto"
+      }
+    }
+  },
+  "services": {
+    "title": "Nuestra Experiencia",
+    "subtitle": "Transformando visiones en realidad digital",
+    "list": {
+      "webdev": {
+        "title": "Desarrollo Web",
+        "description": "Creamos aplicaciones web rápidas y responsivas utilizando tecnologías de vanguardia como Next.js, React y TailwindCSS"
+      },
+      "design": {
+        "title": "Diseño UI/UX",
+        "description": "Diseñamos interfaces intuitivas y experiencias de usuario fluidas que combinan estética con funcionalidad"
+      },
+      "mobile": {
+        "title": "Desarrollo Móvil",
+        "description": "Desarrollamos apps móviles nativas y multiplataforma que ofrecen rendimiento y engagement excepcional"
+      },
+      "consulting": {
+        "title": "Estrategia Tech",
+        "description": "Guiamos a empresas en su transformación digital con consultoría experta y soluciones innovadoras"
+      },
+      "backenddev": {
+        "title": "Arquitectura Backend",
+        "description": "Desarrollamos sistemas backend robustos y escalables que potencian aplicaciones de alto rendimiento"
+      },
+      "security": {
+        "title": "Seguridad Digital",
+        "description": "Implementamos medidas de seguridad avanzadas para proteger tus activos digitales y datos de usuarios"
+      }
+    }
+  },
+  "work": {
+    "title": "Trabajos Seleccionados",
+    "description": "Mostrando nuestros mejores proyectos y colaboraciones en diseño y desarrollo",
+    "comingSoon": {
+      "title": "Más Proyectos en Camino",
+      "description": "Continuamente estamos trabajando en nuevos proyectos innovadores. Mantente atento a las próximas actualizaciones mientras seguimos transformando ideas en experiencias digitales excepcionales."
+    },
+    "subtitle": "Historias de éxito que inspiran",
+    "viewProject": "Ver Proyecto",
+    "projects": {
+      "menufast": {
+        "title": "menufa.st",
+        "description": "Plataforma innovadora para la generación de menús digitales y códigos QR, diseñada específicamente para restaurantes. Una solución moderna que simplifica la gestión de menús y mejora la experiencia del cliente."
+      },
+      "usacaribbean": {
+        "title": "USA Caribbean Tours",
+        "description": "Sistema CMS para la compra de tickets de autobús con formularios personalizados para viajes a medida. Integración completa de SMTP y Stripe para procesamiento de pagos. Proyecto desarrollado desde cero para Ponemus.com."
+      },
+      "chamberfast": {
+        "title": "chamberfa.st",
+        "description": "Nuestro proyecto más grande, aún en construcción. Sistema todo en uno basado en CMS para cámaras de comercio. Todo lo que otros ofrecen por separado, este sistema lo tendrá en un solo lugar.",
+        "joinWaitlist": "Unirse a la Lista de Espera"
+      },
+      "checkprinter": {
+        "title": "Check Printer & Balance Manager",
+        "description": "Aplicación especializada para la impresión de cheques ajustada a medidas estándar de papel. Incluye control de cheques impresos y gestión de balance con seguimiento automático de ingresos y egresos. Una solución simple pero efectiva para la gestión financiera."
+      }
+    }
+  },
+  "team": {
+    "title": "El Equipo",
+    "description": "Conoce a las mentes creativas detrás de nuestro trabajo excepcional",
+    "disclaimer": {
+      "title": "Aviso Legal",
+      "description": "A pesar de los rumores o similitudes visuales, debo aclarar que no soy, de hecho, Spider-Man. Solo resulta que soy un desarrollador web muy bueno atrapando bugs. Cualquier habilidad para trepar paredes es puramente coincidencial y mayormente relacionada con mi extensa experiencia en desarrollo web."
+    },
+    "roles": {
+      "founder": "Fundador",
+      "developer": "Desarrollador",
+      "accountManager": "Gerente de Cuentas"
+    },
+    "memberDescription": {
+      "founder": "Liderando la innovación en diseño con más de una década de experiencia en branding digital",
+      "developer": "Creando experiencias digitales fluidas a través de soluciones de código elegantes",
+      "accountManager": "Dando vida a visiones creativas con un enfoque en la narrativa visual"
+    }
+  },
+  "contact": {
+    "title": "Creemos Juntos",
+    "subtitle": "Inicia tu viaje digital",
+    "description": "¿Listo para transformar tu presencia digital? Hablemos sobre cómo podemos ayudar a tu empresa a prosperar",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Correo Electrónico",
+      "message": "Cuéntanos sobre tu proyecto",
+      "send": "Enviar Mensaje",
+      "success": "¡Mensaje enviado con éxito! Nos pondremos en contacto pronto.",
+      "error": "Error al enviar el mensaje. Por favor, inténtalo de nuevo."
+    },
+    "office": {
+      "title": "Visítanos",
+      "address": "Port Arthur, TX",
+      "email": "info@9thavenue.dev"
+    }
+  },
+  "popup": {
+    "title": "Oferta Especial",
+    "subtitle": "2 Meses Gratis + Sin Costo de Configuración",
+    "description": "Inicia tu proyecto con nosotros y obtén 2 meses de servicio completamente gratis, además eliminaremos el costo de configuración. ¡Oferta por tiempo limitado!",
+    "button": "Comenzar Ahora",
+    "countdown": {
+      "days": "Días",
+      "hours": "Horas",
+      "minutes": "Min",
+      "seconds": "Seg"
+    }
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  },
+  "about": {
+    "title": "Nuestra Historia",
+    "subtitle": "Creando excelencia digital desde 2020",
+    "description": "Somos un equipo de desarrolladores y diseñadores apasionados dedicados a crear experiencias digitales excepcionales",
+    "process": {
+      "title": "Nuestro Proceso",
+      "subtitle": "Un enfoque sistemático para dar vida a tu visión",
+      "steps": {
+        "discovery": {
+          "title": "Descubrimiento",
+          "description": "Comprendiendo tu visión, objetivos y requisitos a través de consultas detalladas"
+        },
+        "planning": {
+          "title": "Planificación",
+          "description": "Desarrollando un plan integral para alcanzar tus objetivos de manera efectiva"
+        },
+        "design": {
+          "title": "Diseño",
+          "description": "Creando soluciones hermosas y funcionales que se alinean con tu marca"
+        },
+        "development": {
+          "title": "Desarrollo",
+          "description": "Construyendo soluciones robustas y escalables usando tecnologías de vanguardia"
+        },
+        "testing": {
+          "title": "Pruebas",
+          "description": "Asegurando la calidad y el rendimiento a través de procedimientos rigurosos"
+        },
+        "launch": {
+          "title": "Lanzamiento",
+          "description": "Implementando tu proyecto y proporcionando soporte y mantenimiento continuo"
+        }
+      }
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "subtitle": "Los principios que guían nuestro trabajo y moldean nuestro enfoque",
+      "list": {
+        "innovation": {
+          "title": "Innovación",
+          "description": "Superando límites y adoptando nuevas tecnologías para crear soluciones de vanguardia"
+        },
+        "quality": {
+          "title": "Calidad",
+          "description": "Entregando excelencia en cada detalle de nuestro trabajo, desde el concepto hasta la ejecución"
+        },
+        "collaboration": {
+          "title": "Colaboración",
+          "description": "Trabajando estrechamente con nuestros clientes para entender y alcanzar su visión"
+        },
+        "integrity": {
+          "title": "Integridad",
+          "description": "Construyendo confianza a través de la transparencia, honestidad y prácticas éticas"
+        },
+        "growth": {
+          "title": "Crecimiento",
+          "description": "Aprendiendo y evolucionando continuamente para mantenernos a la vanguardia"
+        },
+        "impact": {
+          "title": "Impacto",
+          "description": "Creando experiencias significativas que resuenan con los usuarios y generan resultados"
+        }
+      }
+    }
+  },
+  "jobs": {
+    "title": "Únete a Nuestra Comunidad Creativa",
+    "subtitle": "Sé parte de algo especial",
+    "description": "Conviértete en vendedor y comparte tu experiencia creativa con clientes de todo el mundo. Únete a nuestra plataforma para mostrar tus habilidades y hacer crecer tu negocio.",
+    "apply": "Aplicar Ahora",
+    "imageAlt": "Únete a Nuestro Equipo",
+    "process": {
+      "title": "Proceso",
+      "subtitle": "Cómo convertirse en vendedor",
+      "steps": {
+        "apply": {
+          "title": "Aplicar",
+          "description": "Envía tu solicitud, no se requiere portafolio ni experiencia, ni CV"
+        },
+        "review": {
+          "title": "Revisión",
+          "description": "Nadie revisará su solicitud, porque solicitud enviada, solicitud aceptada"
+        },
+        "interview": {
+          "title": "Entrevista",
+          "description": "No se requiere entrevista, asi de flexible somos"
+        },
+        "onboarding": {
+          "title": "Incorporación",
+          "description": "Una vez aplicada puedes empezar a vender a cuanto negocio pequeño o grande quieras"
+        },
+        "training": {
+          "title": "Capacitación",
+          "description": "No hay formación, aprovecha tu propia experiencia, ¡puedes hacerlo!"
+        },
+        "launch": {
+          "title": "Lanzamiento",
+          "description": "Comienza a vender y crecer a la par que nosotros"
+        }
+      }
+    },
+    "requirements": {
+      "title": "Requisitos",
+      "subtitle": "Lo que buscamos en nuestros vendedores",
+      "list": {
+        "experience": {
+          "title": "Experiencia",
+          "description": "No se requiere experiencia, solo ganas de trabajar"
+        },
+        "skills": {
+          "title": "Habilidades Técnicas",
+          "description": "No se requiere habilidades técnicas, solo ganas de trabajar"
+        },
+        "communication": {
+          "title": "Comunicación",
+          "description": "Excelentes habilidades de comunicación escrita y verbal en cualquier idioma"
+        },
+        "portfolio": {
+          "title": "Portafolio",
+          "description": "No se requiere portafolio, solo ganas de trabajar"
+        }
+      }
+    },
+    "benefits": {
+      "title": "Beneficios",
+      "subtitle": "Lo que obtienes como vendedor",
+      "list": {
+        "flexibility": {
+          "title": "Flexibilidad Laboral",
+          "description": "Trabaja en tu propio horario desde cualquier parte del mundo"
+        },
+        "earnings": {
+          "title": "Altos Ingresos",
+          "description": "Tasas de comisión competitivas y bonos por rendimiento"
+        },
+        "growth": {
+          "title": "Crecimiento Profesional",
+          "description": "Crecimiento asegurado segun tu rendimiento"
+        },
+        "support": {
+          "title": "Soporte Dedicado",
+          "description": "Equipo experto para ayudarte a tener éxito y hacer crecer tu negocio"
+        },
+        "tools": {
+          "title": "Experiencia garantizada",
+          "description": "Aprenderás con el tiempo, a tu propio ritmo."
+        },
+        "community": {
+          "title": "Comunidad Creativa",
+          "description": "Únete tú y todos los que conoces, cuanto más, más ganancias para todos"
+        }
+      }
+    },
+    "form": {
+      "title": "Aplica para Unirte a Nuestro Equipo",
+      "description": "Comparte tus datos con nosotros y comienza tu viaje como vendedor hoy mismo",
+      "name": "Tu Nombre",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono (Opcional)",
+      "message": "Cuéntanos sobre ti",
+      "send": "Enviar Solicitud",
+      "success": "¡Solicitud enviada con éxito! ¡Bienvenido al equipo!",
+      "error": "Error al enviar la solicitud. Por favor, inténtalo de nuevo."
+    }
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La página que estás buscando puede haber sido eliminada, su nombre ha cambiado o no está disponible temporalmente.",
+    "returnHome": "Volver al inicio"
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "subtitle": "Tu privacidad es importante para nosotros. Conoce cómo recopilamos, usamos y protegemos tu información.",
+    "sections": {
+      "collection": {
+        "title": "Recopilación de Información",
+        "description": "Recopilamos la información que nos proporcionas directamente, incluyendo información personal como tu nombre, dirección de correo electrónico y cualquier otra información que elijas proporcionar."
+      },
+      "usage": {
+        "title": "Uso de la Información",
+        "description": "Utilizamos la información que recopilamos para proporcionar, mantener y mejorar nuestros servicios, comunicarnos contigo y proteger nuestros servicios y usuarios."
+      },
+      "cookies": {
+        "title": "Cookies y Tecnologías",
+        "description": "Utilizamos cookies y tecnologías de seguimiento similares para rastrear la actividad en nuestros servicios y mantener cierta información para mejorar tu experiencia."
+      },
+      "sharing": {
+        "title": "Compartir Información",
+        "description": "No compartimos tu información personal con terceros, excepto como se describe en esta política de privacidad o con tu consentimiento."
+      },
+      "security": {
+        "title": "Seguridad de Datos",
+        "description": "Tomamos medidas razonables para ayudar a proteger tu información personal contra pérdida, robo, mal uso, acceso no autorizado, divulgación, alteración y destrucción."
+      },
+      "rights": {
+        "title": "Tus Derechos",
+        "description": "Tienes derecho a acceder, actualizar o eliminar tu información personal. Contáctanos para ejercer estos derechos o hacer preguntas sobre nuestras prácticas de privacidad."
+      }
+    }
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "subtitle": "Por favor, lee estos términos cuidadosamente antes de usar nuestros servicios.",
+    "sections": {
+      "acceptance": {
+        "title": "Aceptación de Términos",
+        "description": "Al acceder o utilizar nuestros servicios, aceptas estar sujeto a estos términos. Si no estás de acuerdo con alguna parte de los términos, no podrás acceder al servicio."
+      },
+      "services": {
+        "title": "Descripción de Servicios",
+        "description": "Proporcionamos servicios digitales que incluyen desarrollo web, diseño y consultoría. Los servicios se proporcionan 'tal cual' y nos reservamos el derecho de modificar o descontinuar cualquier servicio sin previo aviso."
+      },
+      "intellectual": {
+        "title": "Propiedad Intelectual",
+        "description": "Todo el contenido, características y funcionalidad de nuestros servicios son de nuestra propiedad y están protegidos por leyes internacionales de derechos de autor, marcas registradas y otras leyes de propiedad intelectual."
+      },
+      "user": {
+        "title": "Responsabilidades del Usuario",
+        "description": "Eres responsable de mantener la confidencialidad de tu cuenta y de todas las actividades que ocurran bajo tu cuenta. No debes violar ninguna ley o regulación aplicable."
+      },
+      "liability": {
+        "title": "Limitación de Responsabilidad",
+        "description": "No seremos responsables por ningún daño indirecto, incidental, especial, consecuente o punitivo que resulte de tu uso o incapacidad para usar nuestros servicios."
+      },
+      "termination": {
+        "title": "Terminación de Cuenta",
+        "description": "Nos reservamos el derecho de terminar o suspender tu cuenta y acceso a nuestros servicios inmediatamente, sin previo aviso o responsabilidad, por cualquier motivo."
+      }
+    }
+  }
+}

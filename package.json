@@ -1,0 +1,49 @@
+{
+  "name": "nine",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack -p 9004",
+    "build": "next build",
+    "start": "next start -p 9004",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-aspect-ratio": "^1.1.2",
+    "@radix-ui/react-slot": "^1.1.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "embla-carousel-autoplay": "^8.5.1",
+    "embla-carousel-react": "^8.5.1",
+    "framer-motion": "^11.13.3",
+    "i18next": "^24.0.5",
+    "i18next-browser-languagedetector": "^8.0.2",
+    "i18next-http-backend": "^3.0.1",
+    "i18next-resources-to-backend": "^1.2.1",
+    "lucide-react": "^0.468.0",
+    "next": "^15.1.7",
+    "next-intl": "^3.26.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-i18next": "^15.1.4",
+    "react-icons": "^5.4.0",
+    "react-intersection-observer": "^9.13.1",
+    "resend": "^4.0.1",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "19.0.1",
+    "@types/react-dom": "19.0.2",
+    "eslint": "^8",
+    "eslint-config-next": "15.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5"
+  },
+  "overrides": {
+    "@types/react": "19.0.1",
+    "@types/react-dom": "19.0.2"
+  }
+}
